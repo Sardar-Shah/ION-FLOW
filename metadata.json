@@ -1,0 +1,6 @@
+{
+  "name": "CareerPath AI — Career and Skill-Gap Navigator",
+  "description": "Comprehensive career discovery, skill-gap analysis, personalized learning roadmaps, and portfolio project tracking for university students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
